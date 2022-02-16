@@ -1,6 +1,10 @@
 ---
 content_type: page
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 parent_title: Assignments
+parent_type: CourseSection
 parent_uid: 4f754a64-9358-931a-5268-69e2d54be004
 title: Weekly Memos and Responses
 uid: 43f8d442-1b11-35be-b1de-da0f95341253

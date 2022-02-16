@@ -1,5 +1,8 @@
 ---
 content_type: page
+learning_resource_types:
+- Readings
+ocw_type: CourseSection
 title: Readings
 uid: 696e79a6-caa4-5dcf-d3aa-daf69aaf2a67
 ---
@@ -606,7 +609,7 @@ Locke, Richard M. _The Promise and Limits of Private Power: Promoting Labor Stan
 
 Clark, Cathy, Jed Emerson, et al. "[Collaborative Capitalism and the Rise of Impact Investing](http://as.wiley.com/WileyCDA/WileyTitle/productCd-1118862546.html)." _John Wiley & Sons_, 2014.
 
-Prahalad, C. K. _The Fortune at the Bottom of the Pyramid, Revised and Updated 5th Anniversary Edition: Eradicating Poverty Through Profits_. Pearson FT Press, 2009. ISBN: 9780133829136.
+Prahalad, C. K. _The Fortune at the Bottom of the Pyramid, Revised and Updated 5{{< sup "th" >}} Anniversary Edition: Eradicating Poverty Through Profits_. Pearson FT Press, 2009. ISBN: 9780133829136.
 
 Khanna, Tarun. _Billions of Entrepreneurs: How China and India are Reshaping their Futures and Yours_. Harvard Business Review Press, 2011. ISBN: 9781422157282.
 

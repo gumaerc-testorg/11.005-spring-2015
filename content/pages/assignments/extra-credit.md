@@ -1,6 +1,10 @@
 ---
 content_type: page
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 parent_title: Assignments
+parent_type: CourseSection
 parent_uid: 4f754a64-9358-931a-5268-69e2d54be004
 title: Extra Credit
 uid: f4588cca-7d78-dde9-ed55-e6db94317bf2

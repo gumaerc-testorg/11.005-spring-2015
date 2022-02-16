@@ -1,6 +1,10 @@
 ---
 content_type: page
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 parent_title: Assignments
+parent_type: CourseSection
 parent_uid: 4f754a64-9358-931a-5268-69e2d54be004
 title: Mini Essays
 uid: 6cd82441-c19b-d144-ff11-9ad936159ee6
@@ -34,7 +38,7 @@ While Parts 1–3 are essential, most of the essay should be focused on Part 4.
 
 Part 1
 
-*   Child nutrition is one of the most pressing developmental challenges in the 21st century. Bangladesh is one of the countries that had shown the greatest progress in the past few years, but there is a still lot to do in terms of developing permanent institutional capacity in the country.
+*   Child nutrition is one of the most pressing developmental challenges in the 21{{< sup "st" >}} century. Bangladesh is one of the countries that had shown the greatest progress in the past few years, but there is a still lot to do in terms of developing permanent institutional capacity in the country.
 
 Part 2
 
