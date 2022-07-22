@@ -1,6 +1,12 @@
 ---
 content_type: page
+description: This section provides guidelines and instructions for the final project
+  of the course.
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 parent_title: Assignments
+parent_type: CourseSection
 parent_uid: 4f754a64-9358-931a-5268-69e2d54be004
 title: Final Project
 uid: f385911d-0483-dca1-3b1d-6f4c732f43d4
@@ -22,7 +28,7 @@ As the teaching team has supervised students closely during individual office ho
 Components
 ----------
 
-The project consists of an outline (created from this [final project outline template (PDF)]({{< baseurl >}}/resources/mit11_005s15_assign-outline)), a class presentation, and a final paper.
+The project consists of an outline (created from this {{% resource_link 044d7bce-28a0-3233-9fc2-a6b7cf07d34d "final project outline template (PDF)" %}}), a class presentation, and a final paper.
 
 Final Project Paper Length: If paper is written individually: 2,500 to 3,000-word document that details the answers to the relevant questions below. If your project is written as a group: 5,000–6,000 words. You could either: Focus on the same problem of two different perspectives (two sides to the solution) or extend the depth of detail of the solution you're proposing.
 

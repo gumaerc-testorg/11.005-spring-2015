@@ -1,6 +1,12 @@
 ---
 content_type: page
+description: This section provides details on the weekly memo and response assignments
+  of the course.
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 parent_title: Assignments
+parent_type: CourseSection
 parent_uid: 4f754a64-9358-931a-5268-69e2d54be004
 title: Weekly Memos and Responses
 uid: 43f8d442-1b11-35be-b1de-da0f95341253
@@ -13,7 +19,7 @@ Every student will have the opportunity to skip two weekly memos and two weekly 
 Weekly Memo
 -----------
 
-Students must write 300 words (based on this [memo template (PDF)]({{< baseurl >}}/resources/mit11_005s15_assign-memo)) providing summary and critical analysis of the readings assigned for the day. Each group will write one memo per week. These are due 24 hours before class.
+Students must write 300 words (based on this {{% resource_link 4ce7cf75-4831-ea7f-b772-8a0d7f02e006 "memo template (PDF)" %}}) providing summary and critical analysis of the readings assigned for the day. Each group will write one memo per week. These are due 24 hours before class.
 
 Weekly Memo Response
 --------------------
