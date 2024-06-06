@@ -36,7 +36,7 @@ The Ethical Underpinnings of Development
 
 Ethics is one of the most important aspects of international development. Still the topic is yet to receive the proper attention from academics, policy-makers and practitioners. The policies, projects or businesses in the name of development carry the promise of a better life, but in many cases this promise falls short. In this class we will debate the importance of discussing the ethical implications of the interventions we come to support, before (especially), during, and after they are implemented.
 
-*Guest Speaker:* {{% resource_link "c0944507-ebb1-4c1a-afc7-947e95e3805a" "*Diego Laserna*" %}}*, MIT-DUSP Alum and City Council Candidate for the City of Bogota, Colombia in 2015.*
+*Guest Speaker:* [*Diego Laserna*](http://diegolaserna.com/)*, MIT-DUSP Alum and City Council Candidate for the City of Bogota, Colombia in 2015.*
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 4
@@ -140,7 +140,7 @@ Development through the Private Sector
 
 Case 1 – Vaxess Technologies
 
-*Guest Lecturer:* {{% resource_link "016b7937-b42b-4083-b2ca-27240d6b07b3" "*Livio Valenti*" %}}*, VP Vaxess Technologies.*
+*Guest Lecturer:* [*Livio Valenti*](https://www.millenniumfellowship.org/livio-valenti/)*, VP Vaxess Technologies.*
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 19
@@ -160,7 +160,7 @@ Development by Fostering Complementarities across Sectors
 
 Case 3 – Development, Science, and Innovation in Africa
 
-*Guest Lecturer:* {{% resource_link "f7865492-a23d-4b49-96dd-4a45ac06c13a" "*Prof. Calestous Juma*" %}}*, Harvard Kennedy School & MIT.*
+*Guest Lecturer:* [*Prof. Calestous Juma*](https://en.wikipedia.org/wiki/Calestous_Juma)*, Harvard Kennedy School & MIT.*
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 21
@@ -170,7 +170,7 @@ Development through Research
 
 Case 4 – Understanding Development taking Gender Seriously
 
-*Guest Lecturer:* {{% resource_link "6bb8593b-3591-452c-8f8d-48b5e6d05a88" "*Lauren Gurfein*" %}}*, PhD Student in Social Policy, University of Pennsylvania.*
+*Guest Lecturer:* [*Lauren Gurfein*](http://www.sp2.upenn.edu/people/view/lauren-ferreira-cardoso/)*, PhD Student in Social Policy, University of Pennsylvania.*
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 22
@@ -186,7 +186,7 @@ Development through Non-profit Organizations
 
 Case 5 – The Epic Foundation
 
-*Guest Lecturer:* {{% resource_link "2176d871-7e9c-4e70-adc9-6c45021ca4b4" "*Nicola Crosta*" %}}*, Executive Vice-President at The Epic Foundation.*
+*Guest Lecturer:* [*Nicola Crosta*](http://epic.foundation/en/nicola-crosta)*, Executive Vice-President at The Epic Foundation.*
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 24
