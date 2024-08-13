@@ -36,7 +36,7 @@ The Ethical Underpinnings of Development
 
 Ethics is one of the most important aspects of international development. Still the topic is yet to receive the proper attention from academics, policy-makers and practitioners. The policies, projects or businesses in the name of development carry the promise of a better life, but in many cases this promise falls short. In this class we will debate the importance of discussing the ethical implications of the interventions we come to support, before (especially), during, and after they are implemented.
 
-*Guest Speaker:* [*Diego Laserna*](http://diegolaserna.com/)*, MIT-DUSP Alum and City Council Candidate for the City of Bogota, Colombia in 2015.*
+*Guest Speaker:* *Diego Laserna, MIT-DUSP Alum and City Council Candidate for the City of Bogota, Colombia in 2015.*
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 4
@@ -140,7 +140,7 @@ Development through the Private Sector
 
 Case 1 – Vaxess Technologies
 
-*Guest Lecturer:* [*Livio Valenti*](https://www.millenniumfellowship.org/livio-valenti/)*, VP Vaxess Technologies.*
+*Guest Lecturer:* [*Livio Valenti*](https://www.vaxess.com/livio-valenti)*, VP Vaxess Technologies.*
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 19
