@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Outline template for the final project of the course.
-file: /ol-ocw-studio-app/courses/11-005-introduction-to-international-development-spring-2015/044d7bce28a032339fc2a6b7cf07d34d_MIT11_005S15_assign-outline.pdf
+file: /courses/11-005-introduction-to-international-development-spring-2015/044d7bce28a032339fc2a6b7cf07d34d_MIT11_005S15_assign-outline.pdf
 file_size: 549686
 file_type: application/pdf
 learning_resource_types:
