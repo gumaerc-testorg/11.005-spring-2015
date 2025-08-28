@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: A template for weekly memo assignments.
-file: /courses/11-005-introduction-to-international-development-spring-2015/4ce7cf754831ea7fb7728a0d7f02e006_MIT11_005S15_assign-memo.pdf
+file: /ol-ocw-studio-app/courses/11-005-introduction-to-international-development-spring-2015/4ce7cf754831ea7fb7728a0d7f02e006_MIT11_005S15_assign-memo.pdf
 file_size: 588327
 file_type: application/pdf
 learning_resource_types: []
